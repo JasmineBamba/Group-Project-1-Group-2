@@ -11,16 +11,18 @@ First Group Project: Group 2
 ### Team question division: 
 
 
-- Caroline Impact of Deforestation on Fire Behavior:
+- Caroline:
+      Impact of Deforestation on Fire Behavior:
       Analyze fire spread patterns in deforested areas compared to natural forested areas.
-
-- Nikita Is there a correlation between frequency of wildfire and the CO2 emissions? 
+       Is there a correlation between frequency of wildfire and the CO2 emissions?
+  
+- Nikita:
        Calculate the no. of wildfires in each month  
-       Map the trend if any to understand if there are few months where the frequency of the wildfire is more
-       Correlation
+       Map the trend if any to understand if there are few months where the frequency of the wildfire is more Correlation
 
-- Jasmine Is there a correlation between the frequency of wildfires and the different cause classes?  
-      Calculate the number of wildfires for each cause class. 
+- Jasmine:
+      Calculate the number of wildfires for each cause class.
+      Is there a correlation between the frequency of wildfires and the different cause classes?  
       Map the trend, if any, to understand if certain cause classes are more prevalent in contributing to wildfires.
 
 ### Data Cleaning
