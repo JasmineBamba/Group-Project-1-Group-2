@@ -9,7 +9,7 @@ First Group Project: Group 2
 - http://nfdp.ccfm.org/en/data/fires.php
 - https://cwfis.cfs.nrcan.gc.ca/ha/nfdb
 
-# Data Cleaning
+# Objective
 - To explore whether there is a correlation between CO2 emissions and the frequency of wildfires in Canada.
 - To track and visualize the historical number of wildfires in Canada over the years.
 - To investigate the potential correlation between wildfire frequency and the months of the year.
