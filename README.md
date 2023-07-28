@@ -32,6 +32,13 @@ For this project, extensive data cleaning was performed to ensure the accuracy a
 
 - Handling Missing Values: Missing data points were carefully handled by either imputing them with appropriate statistical measures or, when necessary, removing the rows or columns with missing values.
 - Removing Duplicates: Duplicate records in the dataset were identified and removed to prevent any bias in the analysis.
-- Dealing with Outliers: Outliers were identified and appropriately handled, either by removing them or transforming them using statistical techniques.
 - Removing Irrelevant Information: Unnecessary columns or data points that did not contribute to the analysis were removed to streamline the dataset.
 - Checking Data Integrity: A thorough validation was performed to verify data integrity and cross-reference it with the data source.
+
+# Conclusion:
+- Major causes of wildfires in Canada are Human Activities (53.6 %) and Lightning (42.3%)
+- British Columbia has experienced the maximum number of forest fires across all the jurisdictions and the main factor being lightning
+- In Alberta, New Brunswick, and Quebec, the main cause of wildfire is Human Activities
+- The months with the highest temperatures in Canada (July and August) witnessed the maximum number of wildfires
+- A positive correlation was observed between the deforestation area and the area burnt by wildfires 
+
