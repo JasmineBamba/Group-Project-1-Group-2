@@ -9,6 +9,14 @@ First Group Project: Group 2
 - http://nfdp.ccfm.org/en/data/fires.php
 - https://cwfis.cfs.nrcan.gc.ca/ha/nfdb
 
+# Data Cleaning
+- To explore whether there is a correlation between CO2 emissions and the frequency of wildfires in Canada.
+- To track and visualize the historical number of wildfires in Canada over the years.
+- To investigate the potential correlation between wildfire frequency and the months of the year.
+- To assess the impact of deforestation on fire spread patterns compared to natural forested areas.
+- To plot the causes of wildfire
+- To analyse the cause of wildires in different provinces. 
+
 # Team questions:
 
 - Caroline: Impact of Deforestation on Fire Behavior: Analyze fire spread patterns in deforested areas compared to natural forested areas. Is there a correlation between frequency of wildfire and the CO2 emissions?
